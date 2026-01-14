@@ -85,19 +85,6 @@ Desenvolvedor fullstack apaixonado por tecnologia, atualmente trabalhando com in
 
 ---
 
-## 🔥 Projetos em Destaque
-
-<div align="center">
-
-[![SAP Integration](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-repo-sap&theme=tokyonight)](link-do-repo)
-[![Financial Control](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-repo-financeiro&theme=tokyonight)](link-do-repo)
-[![MCP Server](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-repo-mcp&theme=tokyonight)](link-do-repo)
-[![AI Integration](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-repo-ai&theme=tokyonight)](link-do-repo)
-
-</div>
-
----
-
 ## 💼 Experiência Profissional
 
 🔹 **Fullstack Developer** @ Imagine Software *(Atual)*
