@@ -70,10 +70,7 @@ Desenvolvedor fullstack apaixonado por tecnologia, atualmente trabalhando com in
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-pedro-gms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-gms&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joao-pedro-gms&" alt="joao-pedro-gms" /></p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-pedro-gms&theme=tokyonight" alt="GitHub Streak" />
