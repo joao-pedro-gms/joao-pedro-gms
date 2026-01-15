@@ -69,9 +69,6 @@ Desenvolvedor fullstack apaixonado por tecnologia, atualmente trabalhando com in
 ---
 
 ## 📊 GitHub Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joao-pedro-gms&" alt="joao-pedro-gms" /></p>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-pedro-gms&theme=tokyonight" alt="GitHub Streak" />
 </div>
